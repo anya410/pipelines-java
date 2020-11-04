@@ -1,3 +1,4 @@
+[![Build Status](https://bp-vsts.visualstudio.com/ENT_DevPlatforms_Spark/_apis/build/status/anya410.pipelines-java?branchName=master)](https://bp-vsts.visualstudio.com/ENT_DevPlatforms_Spark/_build/latest?definitionId=13614&branchName=master)
 
 # Contributing
 
